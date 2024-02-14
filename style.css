@@ -101,7 +101,7 @@ body{
 
 .light{
     background: var(--Dark-blue);
-    color: White;
+    color:var(--Grayish-blue);
 }
 
 .dark{
