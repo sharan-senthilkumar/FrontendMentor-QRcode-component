@@ -2,11 +2,10 @@
 
 ## Hello frontend enthusiasts 🙏
 
-
 I have completed my challenge
 ***QR Code Component*** 🥳
 
-[![gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1611217876157/6ZbI33hAF.gif?auto=format,compress&gif-q=60&format=webm)]
+![gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1611217876157/6ZbI33hAF.gif?auto=format,compress&gif-q=60&format=webm)
 
 
 
